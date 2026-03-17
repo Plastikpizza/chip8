@@ -2,7 +2,7 @@
 
 A CHIP-8 emulator written in Rust. Nothing groundbreaking, just a fun weekend project to learn more about emulation and Rust.
 
-![screenshot](./.assets/image.png)
+![screenshot](./.assets/screenshot.png)
 
 ## What is CHIP-8?
 
